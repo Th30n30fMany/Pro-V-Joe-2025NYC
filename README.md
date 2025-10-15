@@ -1,5 +1,9 @@
 # PvJ Defensive Playbook
-Modular, PvJ-compliant toolkit for discovery, triage, deception, offense, and Scorched Earth. Kali Purple-ready, with orchestrator, helpers, and playbooks.
+> [!WARNING] WARNING
+> Not all items have been tested. Not all documentation has been fully updated with testing feed back. Use with caution. 
+> Execute in a test machine first (Virtual Machine). Adjust as needed.
+> 
+Modular, PvJ-compliant toolkit for discovery, triage, deception, offense, and Scorched Earth. Built for Kali Purple or other Debian based GNU/Linux distros, with orchestrator, helpers, and playbooks.
 
 Usage model:
 - Clone repo to central analyst VM
