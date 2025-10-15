@@ -1,0 +1,2 @@
+uuid,name,type,host,placement,priority,created_by,created_at
+e7f1a4b2-... ,svc_admin_url,http,web-01,/var/www/html/.admin.html,high,team1,2025-10-07T12:00:00Z

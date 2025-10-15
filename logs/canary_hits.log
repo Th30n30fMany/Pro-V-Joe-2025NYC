@@ -1,0 +1,14 @@
+{"time": "2025-10-13T19:28:12.421839Z", "remote_addr": "127.0.0.1", "user_agent": "curl/7.81.0", "data": {"uuid": "test-uuid", "user": "analyst", "host": "labbox"}}
+{"time": "2025-10-13T19:45:09.072062Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:45:32.174782Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:48:14.874092Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:48:32.329753Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:49:10.989633Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:50:02.497529Z", "remote_addr": "127.0.0.1", "data": {"uuid": "test-uuid", "user": "analyst"}}
+{"time": "2025-10-13T19:56:05.335319Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:56:06.571466Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:56:14.095934Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:56:14.735125Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:56:15.187492Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:56:15.373068Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}
+{"time": "2025-10-13T19:56:15.571529Z", "remote_addr": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36", "data": {}}

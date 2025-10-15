@@ -1,0 +1,14 @@
+[Unit]
+Description=Canary Receiver
+After=network.target
+
+[Service]
+Type=simple
+User=canary
+Group=canary
+WorkingDirectory=/opt/canary
+ExecStart=/usr/bin/python3 /opt/canary/canary_receiver.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

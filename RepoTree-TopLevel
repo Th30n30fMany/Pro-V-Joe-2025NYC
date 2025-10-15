@@ -1,0 +1,43 @@
+pvj-defensive-playbook/
+├─ .env.example
+├─ Makefile
+├─ bootstrap.sh
+├─ README.md
+├─ LICENSE
+├─ config/
+│  ├─ pvj.conf
+│  └─ sysmon_config.xml
+├─ libs/
+│  └─ helpers.sh
+├─ infra/
+│  ├─ canary-receiver/
+│  │  ├─ canary_receiver.py
+│  │  ├─ Dockerfile
+│  │  └─ systemd.service
+│  ├─ dns-stub/
+│  │  └─ dnsmasq.conf
+│  └─ registry/
+│     └─ registry.csv
+├─ modules/
+│  ├─ discovery/...
+│  ├─ recon/...
+│  ├─ beacon/...
+│  ├─ ir/...
+│  ├─ deception/...
+│  ├─ offense/...
+│  ├─ scorched_earth/...
+│  └─ redteam/...
+├─ playbooks/
+│  ├─ pregame.md
+│  ├─ first_15_minutes.md
+│  ├─ triage_and_hunt.md
+│  ├─ deception_response.md
+│  ├─ scorched_earth.md
+│  └─ evidence_handling.md
+├─ docs/
+│  ├─ roles.md
+│  ├─ token_placement_map.md
+│  ├─ quick-reference.md
+│  ├─ network_cheatsheet.md
+│  └─ strandjs_alignment.md
+└─ runner_quickstart.md
